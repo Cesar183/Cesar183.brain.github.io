@@ -109,6 +109,7 @@ header a:hover {
     height: 2000px;
     overflow: hidden;
     border: .5px solid rgba(107, 88, 116, 0.5);
+    max-width: 1500px;
 }
 
 .hero-blur-image {
@@ -385,6 +386,7 @@ header a:hover {
     border: .5px solid rgba(107, 88, 116, 0.5);
     border-top: none;
     padding-bottom: 10%;
+    max-width: 1500px;
 }
 
 .features-section h1 {
@@ -471,6 +473,7 @@ header a:hover {
     width: 95%;
     height: 100%;
     border: .5px solid rgb(107, 88, 116, 0.5);
+    max-width: 1500px;
 }
 
 .chatApp-section .left-container {
@@ -542,6 +545,7 @@ header a:hover {
     border-top: none;
     border-bottom: none;
     padding-top: 10%;
+    max-width: 1500px;
 }
 
 .generative-section h1 {
@@ -633,7 +637,7 @@ header a:hover {
 
 .generative-section .grid-box .grid2 h1 {
     position: absolute;
-    bottom: 25%;
+    bottom: 45%;
     left: 10%;
     font-weight: 700;
     font-size: 50px;
@@ -641,7 +645,7 @@ header a:hover {
 
 .generative-section .grid-box .grid2 p {
     position: absolute;
-    bottom: 10%;
+    bottom: 30%;
     left: 10%;
     font-size: 20px;
     color: rgb(127, 109, 135);
@@ -674,7 +678,7 @@ header a:hover {
 .generative-section .grid3 img {
     width: 90%;
     position: absolute;
-    bottom: 10%;
+    bottom: 5%;
     left: 5%;
 }
 
@@ -682,7 +686,7 @@ header a:hover {
     width: 90%;
     position: absolute;
     left: 5%;
-    margin-top: -30%;
+    margin-top: -20%;
 }
 
 .generative-section .grid3 .info .info-icons {
